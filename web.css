@@ -1,0 +1,15 @@
+section ul{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    font-style: oblique;
+    background-color: antiquewhite;
+}
+h2{
+    text-align: center;
+    border:2px solid black;
+    border-color: blueviolet;
+    padding: 10px;
+}

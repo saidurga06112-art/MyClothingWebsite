@@ -1,0 +1,44 @@
+header h1{
+  text-align: center;
+  padding:10px ;
+  background-color: darkgray;
+}
+section {
+  background-image: url(https://i.pinimg.com/736x/0f/94/0e/0f940e59ebe731b9b5490fd2653fc6d9.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 300px;
+  color: white;
+  text-align: center;
+  
+}
+section h1{
+  text-align: center;
+  
+}
+section p{
+  text-align: center;
+}
+button{
+  background-color: brown;
+  text-decoration-color:pink ;
+  
+  border-color: black;
+}
+footer{
+  text-align: center;
+  text-decoration:wavy;
+  background: scroll;
+  background-color:grey ;
+  padding:10px ;
+}
+ul li{
+  background-color: darkgrey;
+  padding: 10px;
+}
+div h1{
+  font-size: 50px;
+}
+div p{
+  font-size: 30px;
+}
